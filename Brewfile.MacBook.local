@@ -12,9 +12,10 @@ brew "rustup-init"
 brew "spaceship"
 brew "vim"
 brew "wget"
+mas "Honey", id: 1472777122
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "OTP Auth", id: 1471867429
 mas "Pages", id: 409201541
+mas "Soulver 3", id: 1508732804
 mas "Timetable", id: 425121147
-mas "Xcode", id: 497799835
