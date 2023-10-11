@@ -1,21 +1,59 @@
+tap "gcenx/wine"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
-tap "homebrew/core"
+tap "homebrew/services"
+brew "cmake"
 brew "coreutils"
-brew "git"
-brew "lsd"
+brew "gcc"
 brew "mas"
+brew "nvm"
 brew "python@3.9"
-brew "node"
-brew "rustup-init"
-brew "spaceship"
 brew "vim"
 brew "wget"
-mas "Honey", id: 1472777122
+brew "youtube-dl"
+cask "fig"
+cask "gstreamer-framework"
+cask "iterm2"
+cask "rar"
+cask "rectangle"
+mas "Amphetamine", id: 937984704
+mas "Apple Configurator", id: 1037126344
+mas "Craft", id: 1487937127
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
-mas "OTP Auth", id: 1471867429
 mas "Pages", id: 409201541
-mas "Soulver 3", id: 1508732804
+mas "PhotoCatch", id: 1576081762
+mas "Pixelmator Pro", id: 1289583905
+mas "The Unarchiver", id: 425424353
 mas "Timetable", id: 425121147
+mas "Todoist", id: 585829637
+mas "Xcode", id: 497799835
+vscode "aaron-bond.better-comments"
+vscode "astro-build.astro-vscode"
+vscode "benjaminbenais.copilot-theme"
+vscode "bradlc.vscode-tailwindcss"
+vscode "christian-kohler.path-intellisense"
+vscode "dbaeumer.vscode-eslint"
+vscode "donjayamanne.githistory"
+vscode "dsznajder.es7-react-js-snippets"
+vscode "esbenp.prettier-vscode"
+vscode "GitHub.copilot"
+vscode "GitHub.copilot-chat"
+vscode "GitHub.github-vscode-theme"
+vscode "hnw.vscode-auto-open-markdown-preview"
+vscode "loilo.snazzy-light"
+vscode "MaoSantaella.night-wolf"
+vscode "miguelsolorio.fluent-icons"
+vscode "mike-co.import-sorter"
+vscode "moalamri.inline-fold"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-vscode.vscode-typescript-next"
+vscode "PKief.material-icon-theme"
+vscode "RaillyHugo.one-hunter"
+vscode "ronnidc.nunjucks"
+vscode "VisualStudioExptTeam.intellicode-api-usage-examples"
+vscode "VisualStudioExptTeam.vscodeintellicode"
+vscode "Vue.volar"
+vscode "withfig.fig"
+vscode "yoavbls.pretty-ts-errors"
