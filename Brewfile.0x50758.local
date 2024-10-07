@@ -1,0 +1,63 @@
+tap "homebrew/bundle"
+brew "bat"
+brew "btop"
+brew "curl"
+brew "eza"
+brew "fastfetch"
+brew "fzf"
+brew "gh"
+brew "git"
+brew "mas"
+brew "ripgrep"
+brew "starship"
+brew "wget"
+brew "zinit"
+brew "zsh"
+brew "zsh-syntax-highlighting"
+cask "font-jetbrains-mono-nerd-font"
+cask "font-symbols-only-nerd-font"
+cask "raycast"
+cask "rectangle"
+mas "Adobe Lightroom", id: 1451544217
+mas "Amphetamine", id: 937984704
+mas "Boop", id: 1518425043
+mas "Compressor", id: 424390742
+mas "Final Cut Pro", id: 424389933
+mas "Keynote", id: 409183694
+mas "Microsoft PowerPoint", id: 462062816
+mas "Motion", id: 434290957
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Pixelmator Pro", id: 1289583905
+mas "Wipr", id: 1320666476
+vscode "aaron-bond.better-comments"
+vscode "astro-build.astro-vscode"
+vscode "benjaminbenais.copilot-theme"
+vscode "bradlc.vscode-tailwindcss"
+vscode "christian-kohler.path-intellisense"
+vscode "davidbwaters.macos-modern-theme"
+vscode "dbaeumer.vscode-eslint"
+vscode "digimezzo.jetbrains-rider-new-ui-theme"
+vscode "dsznajder.es7-react-js-snippets"
+vscode "edwinsulaiman.jetbrains-rider-dark-theme"
+vscode "esbenp.prettier-vscode"
+vscode "fisheva.eva-theme"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "github.github-vscode-theme"
+vscode "loilo.snazzy-light"
+vscode "mateocerquetella.xcode-12-theme"
+vscode "melishev.feather-vscode"
+vscode "miguelsolorio.fluent-icons"
+vscode "miguelsolorio.symbols"
+vscode "mobalic.jetbrains-new-dark"
+vscode "ms-vscode.vscode-typescript-next"
+vscode "rangav.vscode-thunder-client"
+vscode "ritwickdey.liveserver"
+vscode "streetsidesoftware.code-spell-checker"
+vscode "usernamehw.errorlens"
+vscode "uxtitan.copilot-theme-higher-contrast"
+vscode "visualstudioexptteam.intellicode-api-usage-examples"
+vscode "visualstudioexptteam.vscodeintellicode"
+vscode "yoavbls.pretty-ts-errors"
+vscode "zguolee.tabler-icons"
