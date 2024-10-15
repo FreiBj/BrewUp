@@ -16,10 +16,22 @@ brew "zsh"
 brew "zsh-syntax-highlighting"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-symbols-only-nerd-font"
+cask "rar"
 cask "raycast"
 cask "rectangle"
+mas "Adobe Lightroom", id: 1451544217
 mas "Amphetamine", id: 937984704
+mas "Boop", id: 1518425043
+mas "Compressor", id: 424390742
+mas "Craft", id: 1487937127
+mas "Final Cut Pro", id: 424389933
+mas "Keynote", id: 409183694
+mas "Microsoft PowerPoint", id: 462062816
+mas "Motion", id: 434290957
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
+mas "Wipr", id: 1320666476
 vscode "aaron-bond.better-comments"
 vscode "astro-build.astro-vscode"
 vscode "benjaminbenais.copilot-theme"
@@ -41,6 +53,8 @@ vscode "melishev.feather-vscode"
 vscode "miguelsolorio.fluent-icons"
 vscode "miguelsolorio.symbols"
 vscode "mobalic.jetbrains-new-dark"
+vscode "ms-vscode.azure-repos"
+vscode "ms-vscode.remote-repositories"
 vscode "ms-vscode.vscode-typescript-next"
 vscode "rangav.vscode-thunder-client"
 vscode "ritwickdey.liveserver"
