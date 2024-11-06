@@ -1,4 +1,6 @@
 tap "homebrew/bundle"
+tap "homebrew/services"
+tap "koekeishiya/formulae"
 tap "nikitabobko/tap"
 brew "bat"
 brew "btop"
@@ -15,8 +17,9 @@ brew "wget"
 brew "zinit"
 brew "zsh"
 brew "zsh-syntax-highlighting"
+brew "koekeishiya/formulae/skhd"
+brew "koekeishiya/formulae/yabai"
 cask "adobe-creative-cloud-cleaner-tool"
-cask "aerospace"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-symbols-only-nerd-font"
 cask "rar"
@@ -28,6 +31,7 @@ mas "Boop", id: 1518425043
 mas "Compressor", id: 424390742
 mas "Craft", id: 1487937127
 mas "Final Cut Pro", id: 424389933
+mas "Key Codes", id: 414568915
 mas "Keynote", id: 409183694
 mas "Microsoft PowerPoint", id: 462062816
 mas "Motion", id: 434290957
