@@ -38,7 +38,7 @@ mas "Motion", id: 434290957
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
-mas "Wipr", id: 1662217862
+mas "Xcode", id: 497799835
 vscode "aaron-bond.better-comments"
 vscode "astro-build.astro-vscode"
 vscode "benjaminbenais.copilot-theme"
