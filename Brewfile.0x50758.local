@@ -7,10 +7,12 @@ brew "btop"
 brew "cask"
 brew "curl"
 brew "fastfetch"
+brew "fnm"
 brew "fzf"
 brew "gh"
 brew "git"
 brew "mas"
+brew "neovim"
 brew "ripgrep"
 brew "starship"
 brew "wget"
@@ -38,6 +40,7 @@ mas "Motion", id: 434290957
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
+mas "Wipr", id: 1662217862
 mas "Xcode", id: 497799835
 vscode "aaron-bond.better-comments"
 vscode "astro-build.astro-vscode"
@@ -62,9 +65,11 @@ vscode "miguelsolorio.symbols"
 vscode "mobalic.jetbrains-new-dark"
 vscode "ms-vscode.remote-repositories"
 vscode "ms-vscode.vscode-typescript-next"
+vscode "oven.bun-vscode"
 vscode "prisma.prisma"
 vscode "rangav.vscode-thunder-client"
 vscode "ritwickdey.liveserver"
+vscode "sumneko.lua"
 vscode "tamasfe.even-better-toml"
 vscode "unifiedjs.vscode-mdx"
 vscode "usernamehw.errorlens"
