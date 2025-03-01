@@ -26,6 +26,8 @@ cask "firefox@developer-edition"
 cask "font-jetbrains-mono-nerd-font"
 cask "font-symbols-only-nerd-font"
 cask "ghostty"
+cask "jordanbaird-ice"
+cask "latest"
 cask "raycast"
 cask "rectangle"
 mas "Adobe Lightroom", id: 1451544217
@@ -39,6 +41,7 @@ mas "Final Cut Pro", id: 424389933
 mas "Framous", id: 6636520519
 mas "Key Codes", id: 414568915
 mas "Keynote", id: 409183694
+mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Motion", id: 434290957
 mas "Numbers", id: 409203825
