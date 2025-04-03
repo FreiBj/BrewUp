@@ -6,6 +6,8 @@ tap "nikitabobko/tap"
 brew "bat"
 brew "btop"
 brew "cask"
+brew "cmake"
+brew "exiftool"
 brew "fastfetch"
 brew "fnm"
 brew "fzf"
@@ -14,7 +16,10 @@ brew "ghostscript"
 brew "git"
 brew "mas"
 brew "neovim"
+brew "protobuf"
+brew "python@3.10"
 brew "ripgrep"
+brew "rust"
 brew "starship"
 brew "wget"
 brew "zinit"
@@ -30,28 +35,6 @@ cask "jordanbaird-ice"
 cask "latest"
 cask "raycast"
 cask "rectangle"
-mas "Adobe Lightroom", id: 1451544217
-mas "Amphetamine", id: 937984704
-mas "Apple Configurator", id: 1037126344
-mas "Boop", id: 1518425043
-mas "Compressor", id: 424390742
-mas "Craft", id: 1487937127
-mas "Essentials", id: 1588151344
-mas "Final Cut Pro", id: 424389933
-mas "Framous", id: 6636520519
-mas "Key Codes", id: 414568915
-mas "Keynote", id: 409183694
-mas "Microsoft Outlook", id: 985367838
-mas "Microsoft PowerPoint", id: 462062816
-mas "Motion", id: 434290957
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Photomator", id: 1444636541
-mas "Pixelmator Pro", id: 1289583905
-mas "Reeder", id: 6475002485
-mas "Things", id: 904280696
-mas "Wipr", id: 1662217862
-mas "Xcode", id: 497799835
 vscode "aaron-bond.better-comments"
 vscode "astro-build.astro-vscode"
 vscode "benjaminbenais.copilot-theme"
@@ -63,18 +46,22 @@ vscode "dsznajder.es7-react-js-snippets"
 vscode "edwinsulaiman.jetbrains-rider-dark-theme"
 vscode "esbenp.prettier-vscode"
 vscode "fisheva.eva-theme"
+vscode "github.copilot"
+vscode "github.copilot-chat"
 vscode "github.github-vscode-theme"
 vscode "loilo.snazzy-light"
+vscode "lokalise.i18n-ally"
 vscode "miguelsolorio.fluent-icons"
 vscode "miguelsolorio.symbols"
 vscode "mobalic.jetbrains-new-dark"
-vscode "ms-vscode.remote-repositories"
 vscode "ms-vscode.vscode-typescript-next"
 vscode "oven.bun-vscode"
 vscode "prisma.prisma"
 vscode "rangav.vscode-thunder-client"
 vscode "ritwickdey.liveserver"
 vscode "ronnidc.nunjucks"
+vscode "sanity-io.vscode-sanity"
+vscode "saoudrizwan.claude-dev"
 vscode "tamasfe.even-better-toml"
 vscode "unifiedjs.vscode-mdx"
 vscode "usernamehw.errorlens"
