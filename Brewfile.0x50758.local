@@ -16,6 +16,9 @@ brew "ghostscript"
 brew "git"
 brew "mas"
 brew "neovim"
+brew "numpy"
+brew "pandoc"
+brew "pipx"
 brew "protobuf"
 brew "python@3.10"
 brew "ripgrep"
@@ -49,6 +52,7 @@ mas "Key Codes", id: 414568915
 mas "Keynote", id: 409183694
 mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
 mas "Motion", id: 434290957
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
