@@ -36,7 +36,6 @@ cask "jordanbaird-ice"
 cask "latest"
 cask "raycast"
 cask "rectangle"
-mas "Adobe Lightroom", id: 1451544217
 mas "Amphetamine", id: 937984704
 mas "Apple Configurator", id: 1037126344
 mas "Boop", id: 1518425043
