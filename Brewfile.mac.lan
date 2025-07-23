@@ -6,6 +6,7 @@ brew "mas"
 brew "neovim"
 brew "ripgrep"
 brew "wget"
+cask "mos"
 cask "raycast"
 cask "rectangle"
 mas "Craft", id: 1487937127
